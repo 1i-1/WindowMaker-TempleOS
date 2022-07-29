@@ -1,0 +1,24 @@
+                   
+              ${c1}K    
+             ${c1}KKK   
+         ${c2}K   ${c1}KKK   
+        ${c2}KKK ${c1}KKK    
+       ${c2}KKKKK${c1}KKK    
+      ${c2}KKKKKKK${c1}K     
+     ${c2}KKKKKKKKK     
+    ${c2}KKKKKKKKKKK    
+    ${c3}l     ${c1}KKK ${c3}l    
+   ${c3}l ${c3}l   ${c1}KKK ${c3}l ${c3}l   
+   ${c3}l ${c3}l   ${c1}KKK ${c3}l ${c3}l   
+  ${c3}l   ${c3}l ${c1}KKK ${c3}l   ${c3}l  
+  ${c3}l   ${c3}l ${c1}KKK ${c3}l   ${c3}l  
+  ${c2}YKKKP${c1}KKK  ${c2}YKKKP  
+   ${c2}YKP ${c1}KKK   ${c2}YKP   
+      ${c1}KKK          
+     ${c2}K${c1}KKK          
+     ${c2}K${c1}KK           
+     ${c2}KKK           
+    ${c3}K              
+    ${c3}K              
+   ${c3}K               
+                   
