@@ -17,8 +17,11 @@
 * [wmix](https://www.dockapps.net/wmix) - Volume Adjuster
 
 ## Icons
-System Icons:
-Web Icons:
+#### System Icons:
+![system icons](/images/templeos_system-icons.png)
+
+#### Web Icons:
+![web icons](/images/templeos_web-icons.png)
 
 ## Gallery
 
