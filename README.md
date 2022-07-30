@@ -5,9 +5,9 @@
 * [Window Maker](https://github.com/window-maker/wmaker) - Window Manager
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browser
 * [PRICE](http://price.sourceforge.net/) - Image Viewer
-* [Geany]() - Text Editor
-* [Conky]() - System Monitor
-* [Neofetch]() - Displays System Information
+* [Geany](https://www.geany.org/) - Text Editor
+* [Conky](https://github.com/brndnmtthws/conky) - System Monitor
+* [Neofetch](https://github.com/dylanaraps/neofetch) - Displays System Information
 
 #### Dockapps:
 * [wmshutdown](https://www.dockapps.net/wmshutdown) - Shutdown Button
