@@ -26,7 +26,7 @@
 ## Gallery
 
 ##### Desktops:
-![all desktop screenshots](/images/templeos_showcase.png)
+![all desktop screenshots](/images/templeos_showcase_v2.png)
 
 ##### Neofetch and ASCII Art:
 ![desktop displaying a terminal with neofetch and custom ascii art](/images/templeos_1.png)
