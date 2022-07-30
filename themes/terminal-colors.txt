@@ -1,0 +1,16 @@
+Color #1:#000000
+Color #2:#AA5500
+Color #3:#5555FF
+Color #4:#FF55FF
+Color #5:#FF5555
+Color #6:#FFFF55
+Color #7:#55FFFF
+Color #8:#AAAAAA
+Color #9:#555555
+Color #10:#AA0000
+Color #11:#0000AA
+Color #12:#AA00AA
+Color #13:#AA0000
+Color #14:#AAAA00
+Color #15:#00AAAA
+Color #16:#FFFFFF
