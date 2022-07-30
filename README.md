@@ -1,6 +1,7 @@
 # <div align="center">TempleOS-WM</div>
 
 ## Software
+#### Main:
 * [GNUstep](https://github.com/gnustep/) - Development Enviroment
 * [Window Maker](https://github.com/window-maker/wmaker) - Window Manager
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Web Browser
@@ -14,6 +15,10 @@
 * [wmCalClock](https://www.dockapps.net/wmcalclock) - Calendar Clock
 * [wmstickynotes](https://www.dockapps.net/wmstickynotes) - Sticky Notes
 * [wmix](https://www.dockapps.net/wmix) - Volume Adjuster
+
+## Icons
+System Icons:
+Web Icons:
 
 ## Gallery
 
